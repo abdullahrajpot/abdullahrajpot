@@ -1,3 +1,5 @@
+![logo](https://github.com/abdullahrajpot/abdullahrajpot/blob/main/github%20profile.jpg)
+
 <h1 align="center">Hi 👋, I'm Abdullah Tariq</h1>
 <h3 align="center">A passionate Software Engineer from Pakistan</h3>
 
